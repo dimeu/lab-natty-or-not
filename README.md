@@ -37,8 +37,9 @@ Copilot Designer: Para criar imagens de alta qualidade.
 
 ## 🚀 Resultados
 Aqui estão alguns exemplos do que consegui criar:
+```
 [Uma paisagem surreal criada pelo Copilot Designer](https://tse1.mm.bing.net/th/id/OIG3.8KIr0jaOhqm3Ok_mWinn?w=1024&h=1024&rs=1&pid=ImgDetMain)
-
+```markdown
 ## 💭 Reflexão (Opcional)
 Criar algo “natty” (natural) com IA foi um desafio fascinante. A busca pelo equilíbrio entre realismo e criatividade é empolgante. Mal posso esperar para compartilhar mais resultados!
 ```
