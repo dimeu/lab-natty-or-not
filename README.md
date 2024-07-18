@@ -27,17 +27,17 @@ Este projeto visa explorar o potencial das IAs generativas para criar conteúdo 
 
 ## 🤖 Tecnologias Utilizadas
 GPT-4: Para gerar textos criativos e descritivos.
-StyleGAN2: Para criar imagens de alta qualidade.
+Copilot Designer: Para criar imagens de alta qualidade.
 
 ## 🧐 Processo de Criação
 1- Coleta de Dados: Reuni um conjunto diversificado de dados, incluindo imagens, textos e músicas.
-2- Treinamento dos Modelos: Treinei o GPT-4 e o StyleGAN2 com os dados coletados.
+2- Treinamento dos Modelos: Treinei o GPT-4 e o Copilot Designer com os dados coletados.
 3- Geração de Conteúdo: Utilizei o GPT-4 para escrever descrições detalhadas e envolventes para as imagens geradas pelo StyleGAN2.
 4- Ajustes e Refinamentos: Realizei ajustes nos hiperparâmetros dos modelos e otimizei o conteúdo gerado.
 
 ## 🚀 Resultados
 Aqui estão alguns exemplos do que consegui criar:
-[Uma paisagem surreal criada pelo StyleGAN2](https://copilot.microsoft.com/images/create/a-surreal-landscape/1-6698dd162eb347da8ce0c2abf420d397?id=midxrbE%2b5OEzQiUSuAErGw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.ZmDcTG0eztmX36btSmeb&FORM=SYDBIC)
+[Uma paisagem surreal criada pelo Copilot Designer](https://tse1.mm.bing.net/th/id/OIG3.8KIr0jaOhqm3Ok_mWinn?w=1024&h=1024&rs=1&pid=ImgDetMain)
 
 ## 💭 Reflexão (Opcional)
 Criar algo “natty” (natural) com IA foi um desafio fascinante. A busca pelo equilíbrio entre realismo e criatividade é empolgante. Mal posso esperar para compartilhar mais resultados!
